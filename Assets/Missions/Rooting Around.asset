@@ -57,6 +57,6 @@ MonoBehaviour:
       ComponentTypes: 
       SpecialComponentType: 0
       ModTypes:
-      - buttonSequenceModule
+      - buttonSequencesModule
       - SimonV2
   PacingEventsEnabled: 1
